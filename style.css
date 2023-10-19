@@ -1,0 +1,12 @@
+div p.notes-1 {
+    color: grey;
+    font-size: small;
+}
+
+div input.form-check-input {
+    font-size: small;
+}
+
+div label i.fa-brands {
+    font-size: large;
+}
